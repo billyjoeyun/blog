@@ -79,26 +79,20 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    SIDNEY KAY
+                    DEVOPS
                 </div>
-                <!--div class="title m-b-md">
-                 Learning Laravel using Laracast
-                </div-->
+                <div class="title m-b-md">
+                 Learning Laravel
+                </div>
 
-                <!--div class="links">
+                <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div-->
-                <div class="links">
-                    <a href="https://laravel.com/docs">My LOVE</a>
-                    <a href="https://laracasts.com">My LIFE</a>
-                    <a href="https://laravel-news.com">My BEBE</a>
-                    <a href="https://forge.laravel.com">My One</a>
-                    <a href="https://github.com/laravel/laravel">MINE</a>
                 </div>
+
             </div>
         </div>
     </body>
